@@ -1,6 +1,6 @@
 # SNIST Campus Navigator
 
-# SNIST Campus Navigator is an interactive web application designed to help users find the shortest path between locations within the Sreenidhi Institute of Science and Technology (SNIST) campus. It provides step-by-step directions, distance details, and an intuitive interface for easy navigation.
+SNIST Campus Navigator is an interactive web application designed to help users find the shortest path between locations within the Sreenidhi Institute of Science and Technology (SNIST) campus. It provides step-by-step directions, distance details, and an intuitive interface for easy navigation.
 
 ## 🚀 Features
 
